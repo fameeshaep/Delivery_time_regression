@@ -102,37 +102,37 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 
 \### Linear Regression
 
-\-Train MSE: 
+\-Train MSE: 132.83
 
-\-Train R2:
+\-Train R2: 0.73
 
-\-Test MSE:
+\-Test MSE: 100.67
 
-\-Test R2:
+\-Test R2: 0.77
 
 
 
 \### Decision Tree Regressor
 
-\-Train MSE:
+\-Train MSE: 0
 
-\-Train R2:
+\-Train R2: 1
 
-\-Test MSE:
+\-Test MSE: 254
 
-\-Test R2:
+\-Test R2: 0.43
 
 
 
 \### Random Forest Regressor
 
-\-Train MSE:
+\-Train MSE: 22.45
 
-\-Train R2:
+\-Train R2: 0.95
 
-\-Test MSE:
+\-Test MSE: 96.87
 
-\-Test R2:
+\-Test R2: 0.78
 
 
 
