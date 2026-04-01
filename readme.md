@@ -140,9 +140,9 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 
 \### Why it is best:
 
-\-Highest \*\*Test R2 Score()\*\*
+\-Highest \*\*Test R2 Score(0.78)\*\*
 
-\-Lowest \*\*Test MSE ()\*\*
+\-Lowest \*\*Test MSE (96.87)\*\*
 
 \-Captures \*\*non- linear relationships\*\*
 
